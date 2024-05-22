@@ -1,3 +1,9 @@
+> [!WARNING]
+> **Due to lack of the sponsorship for this plugin, this plugin is no longer maintained. We do not provide any support for this plugin.**
+> - **No updates**: There will be no further updates or bug fixes.
+> - **No support**: We do not offer any support or assistance for this plugin.
+> - **Use at your own risk**: Continue using this plugin at your own risk. We recommend finding an alternative solution that is actively maintained.
+
 # Razorpay Payment Plugin
 
 RazorPay Payment Plugin is a payment gateway plugin integrated with OJS 3. Currently, this plugin supports the OJS version 3.3. 
